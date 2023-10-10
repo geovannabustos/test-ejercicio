@@ -1,0 +1,11 @@
+A nivel de las pruebas realizadas :
+* La busqueda de los usuarios deberia permitir a traves del id y el username,
+ya que el registro permite ingresar varios usuarios con el mismo username,
+pero al buscar solo trae el primer usuario que encuentra
+* Al ejecutar la creacion del usuario retorna en un campo message el id del usuario,
+deberia haber concordancia al definir un parametro y deberia persistir
+
+A nivel de la prueba:
+He realizado la prueba considerando como un set a ejecutarse en orden por la dependencia que existe entre cada prueba
+de igual manera interesante el dejar a abierto el alcance de la implementacion,
+espero cumplir con las expectativas.

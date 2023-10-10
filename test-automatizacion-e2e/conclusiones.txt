@@ -1,0 +1,9 @@
+A nivel de la pagina de pruebas:
+* Asignar id a los componentes de la pagina para identificar de forma precisa cada uno
+* En el formulario de compra hace falta definir el limite de caracteres permitidos,
+así tambien los tipos de caracteres,
+
+A nivel de la prueba:
+Hace un tiempo que no había usado Cypress, pero al ser una herramienta potente y fácil de usar e integrar,
+me pareció un reto interesante al dejar a voluntad el alcance de la implementacion,
+espero cumplir con las expectativas.
